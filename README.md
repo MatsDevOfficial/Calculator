@@ -1,0 +1,2 @@
+- A simple calculator using Python
+- Dutch languaged
